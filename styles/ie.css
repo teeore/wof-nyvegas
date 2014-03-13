@@ -1,0 +1,6 @@
+.tabsection li .sparkles  {height: 280px !important;}
+.tablist > ul > li a {font-size: 11px !important;}
+ #photosection-bg, #backstagesection{ 
+            filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/photos-bg.png', sizingMethod='scale');
+            -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/photos-bg.png', sizingMethod='scale')";
+	 	}
